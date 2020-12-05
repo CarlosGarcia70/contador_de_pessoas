@@ -1,6 +1,6 @@
 # contador_de_pessoas
 
-Contador de pessoas do Daiel Ciolfi, com o GetX
+Contador de pessoas do Daniel Ciolfi, com o GetX
 
 ## Getting Started
 
